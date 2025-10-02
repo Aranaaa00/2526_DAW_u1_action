@@ -337,4 +337,13 @@ Con estas extensiones conseguireis:
 Este proyecto sirve para aprender a usar GitHub Actions 🚀
 
 ## Estado de los tests
+✅ 2025-10-02 10:08 Tests correctos
+✅ 2025-10-02 10:08 Tests correctos
+✅ 2025-10-02 10:07 Tests correctos
+✅ 2025-10-02 10:07 Tests correctos
+✅ 2025-10-02 10:03 Tests correctos
+✅ 2025-10-02 09:57 Tests correctos
+✅ 2025-10-02 09:41 Tests correctos
+❌ 2025-10-02 09:41 Tests fallidos
+❌ Tests fallidos
 ✅ Tests correctos
